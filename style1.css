@@ -1,0 +1,104 @@
+* {
+  transition: all 0.3s ease-in;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #3399cc;
+}
+.wrapper {
+  margin-top: 50px;
+}
+.weather {
+  color: black;
+  font-size: 24px;
+  font-family: "Open Sans", sans-serif;
+  background: url("Images/wi-day-sunny.png") no-repeat;
+  margin-left: 220px;
+  margin-bottom: 17px;
+  width: 252px;
+  height: 33;
+  text-align: left;
+}
+footer {
+  color: white;
+  font-size: 15px;
+  margin-left: 220px;
+  margin-top: 20px;
+  font-family: "Open Sans", sans-serif;
+}
+ul {
+  width: 950px;
+  height: 658px;
+  margin: 20px auto;
+  font-size: 0;
+  line-height: 0;
+  border: 3px solid rgb(255, 255, 255);
+  text-align: center;
+  background-color: white;
+}
+li {
+  display: inline-block;
+  border: 3px solid rgb(255, 255, 255);
+  width: 25%;
+  font-size: 20px;
+  line-height: 1;
+  text-align: center;
+  color: white;
+  height: 157px;
+}
+.Lisbon50 {
+  color: white;
+  background-color: #207aa8;
+  width: 466px;
+}
+.Paris25 {
+  color: white;
+  background-color: #23bdc7;
+  width: 230px;
+}
+.Belgrade25 {
+  color: white;
+  background-color: #976f95;
+  width: 230px;
+}
+.Moscow25 {
+  color: white;
+  background-color: #c75441;
+  width: 230px;
+}
+.Tel_Aviv25 {
+  color: white;
+  background-color: #e67243;
+  width: 230px;
+}
+.Cair25 {
+  color: white;
+  background-color: #fecb5c;
+  width: 230px;
+}
+.New_York25 {
+  color: white;
+  background-color: #92c494;
+  width: 230px;
+}
+.New_Delhi25 {
+  color: white;
+  background-color: #5d9493;
+  width: 230px;
+}
+.San_Francisco50 {
+  color: white;
+  background-color: #ce7293;
+  width: 466px;
+}
+.Tokyo25 {
+  color: white;
+  background-color: #278d61;
+  width: 230px;
+}
+.Sydney100 {
+  color: white;
+  background-color: #5a6189;
+  width: 938px;
+}
